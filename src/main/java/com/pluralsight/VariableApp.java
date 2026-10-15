@@ -25,7 +25,7 @@ public class VariableApp {
         String messageNice = " Hi, you seem like a nice person.";
 
         //Step 2
-        //declare and initialize for..
+        //declare and initialize for...
 
         //numbers of week
         int WeekDays;
@@ -33,19 +33,18 @@ public class VariableApp {
         System.out.println ("How many days are there in a week? " + WeekDays );
 
         //coffee price
-
         double coffeePrice;
         coffeePrice = 4.99;
         System.out.println ("How much is the coffee? " + coffeePrice );
 
         //favorite letter
-
         char favoriteLetter;
         favoriteLetter = 'J' ;
         System.out.println ("What is your favorite letter? " + favoriteLetter );
 
-        boolean isRaining = false;
 
+        // is it going to rain
+        boolean isRaining = false;
         System.out.println ("Do you think it true it's going rain outside? " + isRaining);
 
 
